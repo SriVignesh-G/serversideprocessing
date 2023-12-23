@@ -6,23 +6,23 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
-clone the repository from the github.
+Fork the repository in your github and Clone the repository from the github.
 
 
 ### Step 2:
-start the Django project.
+Start the Django project.
 
 
 ### Step 3:
-create the folder named templates.
+Create the folder named templates.
 
 
 ### Step 4:
-create html file in templates and enter the code.
+Add html file in templates and enter the code.
 
 
 ### Step 5:
-modify view.py, urls.py and settings.py.
+Make necessary changes in view.py, urls.py and settings.py.
 
 
 ### Step 6:
@@ -123,7 +123,10 @@ def prismarea(request):
 ## OUTPUT:
 
 ### Home Page:
-![serversideprocessing output](./serversideprocessing%20output.png)
+![serversideprocessing output](./output.jpg)
+
+### Server output:
+![serveroutput](./serveroutput.jpg)
 
 ## Result:
 The program is executed successfully
